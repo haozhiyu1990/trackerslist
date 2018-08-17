@@ -4,9 +4,9 @@ udp://tracker.coppersurfer.tk:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://tracker.opentrackr.org:1337/announce
-
 udp://tracker.internetwarriors.net:1337/announce
+
+udp://tracker.opentrackr.org:1337/announce
 
 udp://9.rarbg.to:2710/announce
 
@@ -24,7 +24,11 @@ udp://tracker.cypherpunks.ru:6969/announce
 
 udp://thetracker.org:80/announce
 
+udp://open.stealth.si:80/announce
+
 udp://bt.xxx-tracker.com:2710/announce
+
+udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -32,21 +36,19 @@ udp://torr.ws:2710/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
-udp://open.stealth.si:80/announce
+udp://peerfect.org:6969/announce
+
+udp://tracker.iamhansen.xyz:2000/announce
 
 udp://zephir.monocul.us:6969/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
-udp://tracker.uw0.xyz:6969/announce
+udp://tracker1.itzmx.com:8080/announce
 
 udp://tracker.kamigami.org:2710/announce
 
-udp://tracker.iamhansen.xyz:2000/announce
-
 udp://pubt.in:2710/announce
-
-udp://peerfect.org:6969/announce
 
 udp://z.crazyhd.com:2710/announce
 
@@ -72,6 +74,8 @@ udp://tracker.grepler.com:6969/announce
 
 udp://tracker.files.fm:6969/announce
 
+udp://tracker.dutchtracking.com:6969/announce
+
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.desu.sh:6969/announce
@@ -79,8 +83,6 @@ udp://tracker.desu.sh:6969/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.bluefrog.pw:2710/announce
-
-udp://tracker.acg.gg:2710/announce
 
 udp://t.agx.co:61655/announce
 
